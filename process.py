@@ -1,9 +1,5 @@
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras import backend as  K 
-from tensorflow.keras.models import Model
-from tensorflow.keras.layers import Dense, Input
-from tensorflow.keras.optimizers import Adam
 
 """Data pre/post-processing with for loops"""
 
